@@ -2,7 +2,7 @@ Group xAI + Standard
 ======
 Repo für die TSF challenge Gruppe xAI + Standard Ansätze
 # To Do:
-###Daten besorgen
+## Daten besorgen
 ### SMARD
 - [x] Balancing
 - [x] Consumption

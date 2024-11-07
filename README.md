@@ -19,6 +19,7 @@ Repo für die TSF challenge Gruppe xAI + Standard Ansätze
 ## Univariant vs multicariant 
 ## ARIMA oder selbst über rekursionsmodell 
 ## Temporal Fusion Transformers
+## MARS/ EARTH
 
 # Storytelling:
 Entweder verbesserung durch zunahme von Parameter

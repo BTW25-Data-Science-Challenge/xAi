@@ -1,0 +1,3 @@
+[submodule "Data"]
+	path = Data
+	url = git@github.com:BTW25-Data-Science-Challenge/Data.git

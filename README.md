@@ -17,5 +17,6 @@ Repo für die TSF challenge Gruppe xAI + Standard Ansätze
 - [ ] Bericht von SMARD einarbeiten woraus der Strompreis eigentlich besteht
 - [ ] Mehr Vergleiche zur Korrelation zwischen den gesammelten Daten um zu erklären
 - [ ] 
+
 # Members
 Georg, Ansgar und Emmanuel

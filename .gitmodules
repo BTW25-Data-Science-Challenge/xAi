@@ -1,3 +1,6 @@
 [submodule "Data"]
 	path = Data
 	url = git@github.com:BTW25-Data-Science-Challenge/Data.git
+[submodule "submission"]
+	path = submission
+	url = git@github.com:BTW25-Data-Science-Challenge/final-submission.git
